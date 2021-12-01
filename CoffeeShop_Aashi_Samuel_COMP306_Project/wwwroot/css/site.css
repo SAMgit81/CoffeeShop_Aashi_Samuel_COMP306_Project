@@ -61,15 +61,26 @@ html {
 body {
     /* Margin bottom by footer height */
     margin-bottom: 60px;
-    background-color: burlywood
+    background-color: blanchedalmond;
+    padding: 5px;
 }
 
 h1 {
-    background-color: navajowhite
+    background-color: navajowhite;
 }
 
 h2 {
-    text-align: center
+    text-align: center;
+}
+h3 {
+    text-align:center;
+}
+address {
+    text-align:center;
+}
+p {
+    text-align: center;
+    padding: 2px;
 }
 .footer {
   position: absolute;
