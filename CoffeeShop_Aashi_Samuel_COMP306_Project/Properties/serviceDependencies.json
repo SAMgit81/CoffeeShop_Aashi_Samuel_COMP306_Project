@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "type": "mssql",
+      "connectionId": "CoffeeShop_Aashi_Samuel_COMP306_ProjectContext"
+    }
+  }
+}
